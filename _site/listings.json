@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/workshops/08-Create Interactive Apps with Shiny in R.html",
+      "/workshops/07-Text Mining in R.html",
+      "/workshops/06-Data Visualization with R.html",
+      "/workshops/05-R Programming.html",
+      "/workshops/04-Data Manipulation with Tidyverse.html",
+      "/workshops/03-Data Input and Output.html",
+      "/workshops/02-R Data Types.html",
+      "/workshops/01-Introduction to R.html"
+    ]
+  },
+  {
+    "listing": "/strategic-marketing.html",
+    "items": [
+      "/workshops/08-Create Interactive Apps with Shiny in R.html",
+      "/workshops/07-Text Mining in R.html",
+      "/workshops/06-Data Visualization with R.html",
+      "/workshops/05-R Programming.html",
+      "/workshops/04-Data Manipulation with Tidyverse.html",
+      "/workshops/03-Data Input and Output.html",
+      "/workshops/02-R Data Types.html",
+      "/workshops/01-Introduction to R.html"
+    ]
+  },
+  {
+    "listing": "/marketing-analytics.html",
+    "items": [
+      "/listings/05-social-media-engagement.html",
+      "/listings/04-funnel-attribution-model.html",
+      "/listings/03-customer-segmentation-clustering.html",
+      "/listings/02-seo-benchmarking-analysis.html",
+      "/listings/01-campaign-insights-dashboard.html"
+    ]
+  }
+]

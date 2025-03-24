@@ -1,0 +1,22 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+
+Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+
+## What You’ll Find
+
+- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
+- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
+- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
+- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+
+---

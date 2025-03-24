@@ -1,0 +1,436 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "",
+    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Featured Projects",
+    "section": "",
+    "text": "Below are some key projects from my portfolio that showcase my work in digital innovation, data analytics, and interactive application development. Each project also highlights the skills I honed along the way."
+  },
+  {
+    "objectID": "projects.html#data-visualization-dashboard",
+    "href": "projects.html#data-visualization-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed an interactive R Shiny dashboard to visualize key metrics from military housing data, enhancing decision-making efficiency.\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#digital-marketing-campaign-analysis",
+    "href": "projects.html#digital-marketing-campaign-analysis",
+    "title": "Projects",
+    "section": "Digital Marketing Campaign Analysis",
+    "text": "Digital Marketing Campaign Analysis\nAnalyzed campaign performance using regression and mediation analysis to provide strategic insights that improved digital outreach."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Below are the workshops I have delivered throughout my time at Cal Poly Pomona’s Center for Customer Insights and Digital Marketing, along with an overview of the topics covered, the learning outcomes, and the key skills I gained from each session. The R Workshop Series was expanded upon and used as a prerequisite for a Masters program.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate Interactive Apps with Shiny in R\n\n\n\nShiny\n\n\nR Programming\n\n\nData Visualization\n\n\nWeb Applications\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nText Mining in R\n\n\n\nText Mining\n\n\nR Programming\n\n\nData Analysis\n\n\nSocial Media Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #6: Data Visualization with R\n\n\n\nData Visualization\n\n\nR Programming\n\n\nggplot2\n\n\nLattice\n\n\nData Analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #5: R Programming\n\n\n\nR Programming\n\n\nCoding\n\n\nData Analysis\n\n\nSoftware Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #4: Data Manipulation with Tidyverse\n\n\n\nData Manipulation\n\n\nTidyverse\n\n\nR Programming\n\n\nData Wrangling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #3: Data Input and Output\n\n\n\nData Import and Export\n\n\nFile Handling\n\n\nWeb Scraping\n\n\nGit and GitHub\n\n\nData Input/Output\n\n\nCSV/XLSX/SPSS\n\n\nrvest\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #2: R Data Types\n\n\n\nR Programming\n\n\nData Types in R\n\n\nData Structures\n\n\nData Manipulation\n\n\nData Frames\n\n\nBeginner Tutorials\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nR Workshop Series #1: Introduction to R\n\n\n\nR Programming\n\n\nRStudio\n\n\nBeginner Tutorials\n\n\nSoftware Installation and Setup\n\n\nDocumentation and Reporting\n\n\nLearning Resources\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "workshops.html#introduction-to-r-programming",
+    "href": "workshops.html#introduction-to-r-programming",
+    "title": "Workshops",
+    "section": "",
+    "text": "Delivered a hands-on workshop covering data wrangling, visualization, and statistical analysis in R."
+  },
+  {
+    "objectID": "workshops.html#advanced-digital-marketing-strategies",
+    "href": "workshops.html#advanced-digital-marketing-strategies",
+    "title": "Workshops",
+    "section": "Advanced Digital Marketing Strategies",
+    "text": "Advanced Digital Marketing Strategies\nLed a session on leveraging data insights for optimizing digital marketing campaigns and improving ROI."
+  },
+  {
+    "objectID": "workshops.html#data-visualization-with-r-shiny",
+    "href": "workshops.html#data-visualization-with-r-shiny",
+    "title": "Workshops",
+    "section": "Data Visualization with R Shiny",
+    "text": "Data Visualization with R Shiny\nConducted a workshop on building interactive dashboards with R Shiny to help participants visualize complex datasets."
+  },
+  {
+    "objectID": "workshops.html#create-interactive-apps-with-shiny-in-r",
+    "href": "workshops.html#create-interactive-apps-with-shiny-in-r",
+    "title": "Workshops",
+    "section": "Create Interactive Apps with Shiny in R",
+    "text": "Create Interactive Apps with Shiny in R\n\nOverview\nTransform your data into engaging, interactive web applications using Shiny—a powerful R package for dynamic user interfaces. In this hands-on workshop, I guided participants through building and customizing Shiny apps, creating reactive visualizations with ggplot2 and plotly, and deploying the applications online. This session was designed for both beginners and R users looking to expand their technical skills.\n\n\n\n\nLearning Outcomes\n\nUnderstand the fundamental architecture of Shiny apps (using ui.R/server.R or app.R structures).\n\nImplement reactive programming to build dynamic, responsive applications.\n\nCreate and customize interactive data visualizations with ggplot2 and plotly.\n\nDeploy Shiny apps on platforms such as shinyapps.io and shinylive.\n\nLearn best practices for securing Shiny applications, including authentication.\n\n\n\n\nKey Skills Gained\n\nShiny app development\n\nReactive programming in R\n\nInteractive data visualization\n\nWeb application deployment\n\nApplication security practices"
+  },
+  {
+    "objectID": "workshops.html#text-mining-in-r",
+    "href": "workshops.html#text-mining-in-r",
+    "title": "Workshops",
+    "section": "Text Mining in R",
+    "text": "Text Mining in R\n\nOverview\nThis workshop offered a practical demonstration of text mining using real-world Twitter data. Participants learned to access the Twitter API, clean and tokenize text, analyze sentiment, and mine topics from tweets. The session emphasized transforming unstructured text into meaningful insights.\n\n\n\n\nLearning Outcomes\n\nClean, tidy, and tokenize textual data for analysis.\n\nApply TF-IDF to assess word importance.\n\nConduct sentiment analysis to interpret social media data.\n\nUse topic modeling techniques to identify themes within text.\n\n\n\n\nKey Skills Gained\n\nText data preprocessing\n\nSentiment analysis\n\nTF-IDF analysis\n\nTopic modeling techniques"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-6-data-visualization-with-r",
+    "href": "workshops.html#r-workshop-series-6-data-visualization-with-r",
+    "title": "Workshops",
+    "section": "R Workshop Series #6: Data Visualization with R",
+    "text": "R Workshop Series #6: Data Visualization with R\n\nOverview\nThis advanced workshop focused on creating publication-quality data visualizations using R. We explored various chart types—from simple graphs to sophisticated layered visuals—leveraging R’s built-in functions along with packages like ggplot2 and lattice. The session helped participants select the best visualization techniques for different data scenarios.\n\n\n\n\nLearning Outcomes\n\nIdentify and compare popular R visualization packages.\n\nUnderstand the grammar of graphics using ggplot2.\n\nCreate charts for univariate and bivariate data.\n\nLayer and customize visualizations to convey data insights effectively.\n\nFilter and manipulate data with tidyverse functions.\n\n\n\n\nKey Skills Gained\n\nAdvanced data visualization techniques\n\nMastery of ggplot2 and lattice\n\nLayered chart creation\n\nData manipulation with tidyverse\n\nVisual storytelling"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-5-r-programming",
+    "href": "workshops.html#r-workshop-series-5-r-programming",
+    "title": "Workshops",
+    "section": "R Workshop Series #5: R Programming",
+    "text": "R Workshop Series #5: R Programming\n\nOverview\nIn this session, I introduced the principles of good coding practice in R. Participants learned about logical operators, control structures (if-statements and loops), custom function creation, and the efficient use of apply family functions. This workshop laid a solid foundation for writing clean, efficient R code.\n\n\n\n\nLearning Outcomes\n\nPractice good coding standards and techniques.\n\nUse logical operators and control structures effectively.\n\nCreate custom R functions.\n\nSimplify repetitive tasks using apply functions.\n\nFamiliarize with essential built-in R functions.\n\n\n\n\nKey Skills Gained\n\nFundamental R programming\n\nLogical and control structures\n\nCustom function development\n\nCode optimization\n\nEfficient use of apply functions"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-4-data-manipulation-with-tidyverse",
+    "href": "workshops.html#r-workshop-series-4-data-manipulation-with-tidyverse",
+    "title": "Workshops",
+    "section": "R Workshop Series #4: Data Manipulation with Tidyverse",
+    "text": "R Workshop Series #4: Data Manipulation with Tidyverse\n\nOverview\nThis workshop focused on the essentials of data manipulation using the Tidyverse. I demonstrated how to transform raw data into tidy, analysis-ready formats using key dplyr verbs and the piping operator. The session emphasized practical data wrangling techniques to streamline analysis workflows.\n\n\n\n\nLearning Outcomes\n\nUnderstand the concept of data wrangling and tidy data.\n\nDifferentiate between tibbles and traditional data frames.\n\nConvert data between wide and long formats.\n\nApply key dplyr verbs for data transformation.\n\nUtilize the piping operator to build efficient data pipelines.\n\n\n\n\nKey Skills Gained\n\nData wrangling with Tidyverse\n\nTidy data conversion\n\nMastery of dplyr verbs\n\nEfficient data transformation\n\nPipeline construction"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-3-data-input-and-output",
+    "href": "workshops.html#r-workshop-series-3-data-input-and-output",
+    "title": "Workshops",
+    "section": "R Workshop Series #3: Data Input and Output",
+    "text": "R Workshop Series #3: Data Input and Output\n\nOverview\nThis workshop covers the fundamentals of data input and output in R. I explained how to work with built-in datasets, import data from various file formats, scrape data from the web, and export processed data. The session also highlighted the importance of version control with Git and GitHub.\n\n\n\n\nLearning Outcomes\n\nEfficiently use built-in R datasets.\n\nImport data from CSV, XLSX, and SPSS files.\n\nScrape web data using SelectorGadget and rvest.\n\nExport and save data in different formats.\n\nUnderstand the basics of version control with Git and GitHub.\n\n\n\n\nKey Skills Gained\n\nData import/export techniques\n\nWeb data scraping\n\nFile handling in R\n\nVersion control with Git/GitHub\n\nPractical data I/O operations"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-2-r-data-types",
+    "href": "workshops.html#r-workshop-series-2-r-data-types",
+    "title": "Workshops",
+    "section": "R Workshop Series #2: R Data Types",
+    "text": "R Workshop Series #2: R Data Types\n\nOverview\nThis introductory workshop covered the core data types and structures in R. Participants learned about atomic data types (numeric, character, logical) as well as more complex structures such as vectors, matrices, data frames, and lists. This session laid the groundwork for effective data manipulation in R.\n\n\n\n\nLearning Outcomes\n\nDefine and differentiate between atomic data types in R.\n\nUnderstand the use cases for vectors, matrices, data frames, and lists.\n\nLearn when and how to use each data type effectively.\n\nCreate and manipulate data frames using R.\n\nPerform basic operations to view and transform data.\n\n\n\n\nKey Skills Gained\n\nUnderstanding of R data types\n\nData structure manipulation\n\nCreation and management of data frames\n\nFundamental data operations\n\nFoundational R programming knowledge"
+  },
+  {
+    "objectID": "workshops.html#r-workshop-series-1-introduction-to-r",
+    "href": "workshops.html#r-workshop-series-1-introduction-to-r",
+    "title": "Workshops",
+    "section": "R Workshop Series #1: Introduction to R",
+    "text": "R Workshop Series #1: Introduction to R\n\nOverview\nThis beginner-friendly workshop introduced the basics of R and RStudio. Participants learned how to install R and RStudio, navigate the interface, create and run scripts, download packages, and document projects using R Markdown. The session provided essential tips for new users to become comfortable with R.\n\n\n\n\nLearning Outcomes\n\nNavigate the R and RStudio interface confidently.\n\nInstall R, RStudio, and essential R packages.\n\nCreate, run, and save R scripts.\n\nUse R Markdown to document projects effectively.\n\nLeverage online resources and the R community for continuous learning.\n\n\n\n\nKey Skills Gained\n\nR installation and setup\n\nRStudio navigation\n\nScript writing and execution\n\nR Markdown documentation\n\nEffective use of R community resources"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "About Me",
+    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution], with a strong background in [your core skills or tools]. I enjoy building interactive content, sharing knowledge through workshops, and turning ideas into reality through reproducible and creative work."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "What I Do",
+    "text": "What I Do\n\n[Skill or Service 1]: [Brief explanation or tools used].\n[Skill or Service 2]: [Brief explanation or area of expertise].\n[Skill or Service 3]: [Brief explanation or audience served].\n[Skill or Service 4]: [Brief explanation or technologies used]."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Hi, I’m Jarrod Griffin",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nThe Chubb Archive\nA digital hub for preserving and sharing cherished family memories, The Chubb Archive curates old physical films that have been digitized and hosted on YouTube. I built thechubbarchive.com as an organized gateway to these films, integrating Google Analytics to track and confirm engagement from family members across various states.\n\n\nA Safer Way to Collect Data: Market Area Mapping\nIn my role as an Analyst, I revolutionized the process of defining military installation market areas. Previously, data was manually recorded—a time-consuming and hazardous method. I developed a Shiny R app that integrates with Strava to automatically capture GPS data during field drives. By leveraging the sf and leaflet packages along with the HERE API, the app produces an interactive map that improves both the accuracy and safety of data collection.\n\n\nMotivation Through a Dashboard\nTasked with organizing and categorizing flagged data from a large, complex database, I noticed that team morale was suffering due to the overwhelming volume of work. To address this, I created a straightforward yet effective dashboard that displays key metrics and a visual history of the team’s progress. This tool not only streamlined data processing but also boosted team motivation by clearly showcasing achievements over time.\nExplore Projects"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always excited to meet others and explore new ideas. You can email me or connect on LinkedIn.\n\nWelcome to my portfolio—where creativity meets data and ideas come to life."
+  },
+  {
+    "objectID": "index.html#reproducible-research-quarto",
+    "href": "index.html#reproducible-research-quarto",
+    "title": "Hi, I’m Jarrod Griffin",
+    "section": "Reproducible Research & Quarto",
+    "text": "Reproducible Research & Quarto\nI am a strong advocate for reproducible research, and I harness modern tools like Quarto to create dynamic, transparent documents and websites. By integrating code, narrative, and visualizations, Quarto empowers me to develop work that is easily updated, shared, and verified. This approach not only enhances the integrity of my research but also makes it accessible to collaborators and the broader community."
+  },
+  {
+    "objectID": "projects.html#the-chubb-archive",
+    "href": "projects.html#the-chubb-archive",
+    "title": "Featured Projects",
+    "section": "The Chubb Archive",
+    "text": "The Chubb Archive\nI created thechubbarchive.com as a digital hub for preserving and sharing cherished family memories. This project curates a collection of old physical films that have been digitized and hosted on YouTube. The platform serves as an organized gateway to these films while integrating Google Analytics to track engagement from family members across various states.\nSkills Developed:\n\nWeb Development: Building a responsive website for digital archiving.\nDigital Curation: Organizing and presenting multimedia content.\nAnalytics Integration: Implementing Google Analytics to monitor user engagement.\nProject Management: Coordinating digitization and online publishing processes."
+  },
+  {
+    "objectID": "projects.html#a-safer-way-to-collect-data-market-area-mapping",
+    "href": "projects.html#a-safer-way-to-collect-data-market-area-mapping",
+    "title": "Featured Projects",
+    "section": "A Safer Way to Collect Data: Market Area Mapping",
+    "text": "A Safer Way to Collect Data: Market Area Mapping\nIn my role as an Analyst, I was responsible for determining the “market area” of military installations—a process that previously involved manual note-taking at major intersections. To overcome the challenges of inaccuracy and safety risks, I developed a Shiny R application that integrates with the Strava API to automatically capture GPS data during field drives. Using the sf and leaflet packages, the app generates an interactive map of our routes, significantly enhancing both safety and data accuracy. Additionally, the HERE API is utilized to estimate market areas, adding an extra layer of verification.\nSkills Developed:\n\nAdvanced R Programming: Building interactive applications with Shiny.\nAPI Integration: Working with Strava and HERE APIs to automate data collection.\nGeospatial Analysis: Using sf and leaflet for mapping and spatial data visualization.\nProcess Optimization: Streamlining data collection methods for improved safety and efficiency."
+  },
+  {
+    "objectID": "projects.html#motivation-through-a-dashboard",
+    "href": "projects.html#motivation-through-a-dashboard",
+    "title": "Featured Projects",
+    "section": "Motivation Through a Dashboard",
+    "text": "Motivation Through a Dashboard\nWhile managing a large, complex database of flagged data, I observed that the team’s motivation was waning due to the overwhelming volume and slow progress. To address this, I quickly created a simple yet effective dashboard that visualizes key metrics and tracks the team’s progress over time. The dashboard provided clear insights into accomplishments, significantly boosting team morale and focus on the end goal.\nSkills Developed:\n\nData Visualization: Designing dashboards that effectively communicate progress.\nUser Experience (UX): Crafting visual tools that motivate and engage team members.\nPerformance Metrics Analysis: Identifying and presenting key performance indicators.\nDashboard Development: Integrating dynamic data displays within existing applications."
+  },
+  {
+    "objectID": "projects.html#analyzing-seo-practices-tri-and-industry-competitors",
+    "href": "projects.html#analyzing-seo-practices-tri-and-industry-competitors",
+    "title": "Featured Projects",
+    "section": "Analyzing SEO Practices: TRI and Industry Competitors",
+    "text": "Analyzing SEO Practices: TRI and Industry Competitors\nIn this project, I conducted a comprehensive analysis of SEO practices for Trauma Resource Institute(TRI) and compared them with industry competitors. By combining web scraping, keyword research, and data visualization, I identified strengths and weaknesses in TRI’s online presence and developed actionable recommendations for improving digital strategy.\nSkills Developed:\n\nSEO Analysis: Evaluated and benchmarked SEO performance across multiple competitors.\nData Scraping & Cleaning: Wrote a script to collect and process data from various online sources.\nInteractive Reporting: Created an interactive HTML report to visualize comparative SEO metrics.\nStrategic Insights: Synthesized data into actionable recommendations for digital marketing initiatives.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "workshops/01-Introduction to R.html",
+    "href": "workshops/01-Introduction to R.html",
+    "title": "R Workshop Series #1: Introduction to R",
+    "section": "",
+    "text": "Overview\nThis beginner-friendly workshop introduced the basics of R and RStudio. Participants learned how to install R and RStudio, navigate the interface, create and run scripts, download packages, and document projects using R Markdown. The session provided essential tips for new users to become comfortable with R.\n\n\n\n\nLearning Outcomes\n\nNavigate the R and RStudio interface confidently.\n\nInstall R, RStudio, and essential R packages.\n\nCreate, run, and save R scripts.\n\nUse R Markdown to document projects effectively.\n\nLeverage online resources and the R community for continuous learning.\n\n\n\n\nKey Skills Gained\n\nR installation and setup\n\nRStudio navigation\n\nScript writing and execution\n\nR Markdown documentation\n\nEffective use of R community resources"
+  },
+  {
+    "objectID": "workshops/01-Introduction to R.html#create-interactive-apps-with-shiny-in-r",
+    "href": "workshops/01-Introduction to R.html#create-interactive-apps-with-shiny-in-r",
+    "title": "R Workshop Series #1: Introduction to R",
+    "section": "Create Interactive Apps with Shiny in R",
+    "text": "Create Interactive Apps with Shiny in R\n\nOverview\nTransform your data into engaging, interactive web applications using Shiny—a powerful R package for dynamic user interfaces. In this hands-on workshop, I guided participants through building and customizing Shiny apps, creating reactive visualizations with ggplot2 and plotly, and deploying the applications online. This session was designed for both beginners and R users looking to expand their technical skills.\n\n\n\n\nLearning Outcomes\n\nUnderstand the fundamental architecture of Shiny apps (using ui.R/server.R or app.R structures).\n\nImplement reactive programming to build dynamic, responsive applications.\n\nCreate and customize interactive data visualizations with ggplot2 and plotly.\n\nDeploy Shiny apps on platforms such as shinyapps.io and shinylive.\n\nLearn best practices for securing Shiny applications, including authentication.\n\n\n\n\nKey Skills Gained\n\nShiny app development\n\nReactive programming in R\n\nInteractive data visualization\n\nWeb application deployment\n\nApplication security practices"
+  },
+  {
+    "objectID": "workshops/01-Introduction to R.html#r-workshop-series-1-introduction-to-r",
+    "href": "workshops/01-Introduction to R.html#r-workshop-series-1-introduction-to-r",
+    "title": "R Workshop Series #1: Introduction to R",
+    "section": "",
+    "text": "This beginner-friendly workshop introduced the basics of R and RStudio. Participants learned how to install R and RStudio, navigate the interface, create and run scripts, download packages, and document projects using R Markdown. The session provided essential tips for new users to become comfortable with R.\n\n\n\n\n\n\nNavigate the R and RStudio interface confidently.\n\nInstall R, RStudio, and essential R packages.\n\nCreate, run, and save R scripts.\n\nUse R Markdown to document projects effectively.\n\nLeverage online resources and the R community for continuous learning.\n\n\n\n\n\n\nR installation and setup\n\nRStudio navigation\n\nScript writing and execution\n\nR Markdown documentation\n\nEffective use of R community resources"
+  },
+  {
+    "objectID": "workshops/02-R Data Types.html",
+    "href": "workshops/02-R Data Types.html",
+    "title": "R Workshop Series #2: R Data Types",
+    "section": "",
+    "text": "Overview\nThis introductory workshop covered the core data types and structures in R. Participants learned about atomic data types (numeric, character, logical) as well as more complex structures such as vectors, matrices, data frames, and lists. This session laid the groundwork for effective data manipulation in R.\n\n\n\n\nLearning Outcomes\n\nDefine and differentiate between atomic data types in R.\n\nUnderstand the use cases for vectors, matrices, data frames, and lists.\n\nLearn when and how to use each data type effectively.\n\nCreate and manipulate data frames using R.\n\nPerform basic operations to view and transform data.\n\n\n\n\nKey Skills Gained\n\nUnderstanding of R data types\n\nData structure manipulation\n\nCreation and management of data frames\n\nFundamental data operations\n\nFoundational R programming knowledge"
+  },
+  {
+    "objectID": "workshops/03-Data Input and Output.html",
+    "href": "workshops/03-Data Input and Output.html",
+    "title": "R Workshop Series #3: Data Input and Output",
+    "section": "",
+    "text": "Overview\nThis workshop covers the fundamentals of data input and output in R. I explained how to work with built-in datasets, import data from various file formats, scrape data from the web, and export processed data. The session also highlighted the importance of version control with Git and GitHub.\n\n\n\n\nLearning Outcomes\n\nEfficiently use built-in R datasets.\n\nImport data from CSV, XLSX, and SPSS files.\n\nScrape web data using SelectorGadget and rvest.\n\nExport and save data in different formats.\n\nUnderstand the basics of version control with Git and GitHub.\n\n\n\n\nKey Skills Gained\n\nData import/export techniques\n\nWeb data scraping\n\nFile handling in R\n\nVersion control with Git/GitHub\n\nPractical data I/O operations\n\n\n\n\n\n \n\n\nRelevant Links and Code:\nStocks: https://finance.yahoo.com/quote/dis/history?ltr=1\nIMDB: https://www.imdb.com/chart/bottom?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=4da9d9a5-d299-43f2-9c53-f0efa18182cd&pf_rd_r=Z2TFMCSJZQMJS52FPA69&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_ql_8\nSelector Gadget: https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb\nSupplementary Video on How to Link RStudio and Github: https://www.youtube.com/watch?v=ssEYd8T07y4&feature=youtu.be\n View on Code GitHub"
+  },
+  {
+    "objectID": "workshops/04-Data Manipulation with Tidyverse.html",
+    "href": "workshops/04-Data Manipulation with Tidyverse.html",
+    "title": "R Workshop Series #4: Data Manipulation with Tidyverse",
+    "section": "",
+    "text": "Overview\nThis workshop focused on the essentials of data manipulation using the Tidyverse. I demonstrated how to transform raw data into tidy, analysis-ready formats using key dplyr verbs and the piping operator. The session emphasized practical data wrangling techniques to streamline analysis workflows.\n\n\n\n\nLearning Outcomes\n\nUnderstand the concept of data wrangling and tidy data.\n\nDifferentiate between tibbles and traditional data frames.\n\nConvert data between wide and long formats.\n\nApply key dplyr verbs for data transformation.\n\nUtilize the piping operator to build efficient data pipelines.\n\n\n\n\nKey Skills Gained\n\nData wrangling with Tidyverse\n\nTidy data conversion\n\nMastery of dplyr verbs\n\nEfficient data transformation\n\nPipeline construction"
+  },
+  {
+    "objectID": "workshops/05-R Programming.html",
+    "href": "workshops/05-R Programming.html",
+    "title": "R Workshop Series #5: R Programming",
+    "section": "",
+    "text": "Overview\nIn this session, I introduced the principles of good coding practice in R. Participants learned about logical operators, control structures (if-statements and loops), custom function creation, and the efficient use of apply family functions. This workshop laid a solid foundation for writing clean, efficient R code.\n\n\n\n\nLearning Outcomes\n\nPractice good coding standards and techniques.\n\nUse logical operators and control structures effectively.\n\nCreate custom R functions.\n\nSimplify repetitive tasks using apply functions.\n\nFamiliarize with essential built-in R functions.\n\n\n\n\nKey Skills Gained\n\nFundamental R programming\n\nLogical and control structures\n\nCustom function development\n\nCode optimization\n\nEfficient use of apply functions"
+  },
+  {
+    "objectID": "workshops/06-Data Visualization with R.html",
+    "href": "workshops/06-Data Visualization with R.html",
+    "title": "R Workshop Series #6: Data Visualization with R",
+    "section": "",
+    "text": "Overview\nThis advanced workshop focused on creating publication-quality data visualizations using R. We explored various chart types—from simple graphs to sophisticated layered visuals—leveraging R’s built-in functions along with packages like ggplot2 and lattice. The session helped participants select the best visualization techniques for different data scenarios.\n\n\n\n\nLearning Outcomes\n\nIdentify and compare popular R visualization packages.\n\nUnderstand the grammar of graphics using ggplot2.\n\nCreate charts for univariate and bivariate data.\n\nLayer and customize visualizations to convey data insights effectively.\n\nFilter and manipulate data with tidyverse functions.\n\n\n\n\nKey Skills Gained\n\nAdvanced data visualization techniques\n\nMastery of ggplot2 and lattice\n\nLayered chart creation\n\nData manipulation with tidyverse\n\nVisual storytelling"
+  },
+  {
+    "objectID": "workshops/07-Text Mining in R.html",
+    "href": "workshops/07-Text Mining in R.html",
+    "title": "Text Mining in R",
+    "section": "",
+    "text": "Overview\nThis workshop offered a practical demonstration of text mining using real-world Twitter data. Participants learned to access the Twitter API, clean and tokenize text, analyze sentiment, and mine topics from tweets. The session emphasized transforming unstructured text into meaningful insights.\n\n\n\n\nLearning Outcomes\n\nClean, tidy, and tokenize textual data for analysis.\n\nApply TF-IDF to assess word importance.\n\nConduct sentiment analysis to interpret social media data.\n\nUse topic modeling techniques to identify themes within text.\n\n\n\n\nKey Skills Gained\n\nText data preprocessing\n\nSentiment analysis\n\nTF-IDF analysis\n\nTopic modeling techniques"
+  },
+  {
+    "objectID": "workshops/08-Create Interactive Apps with Shiny in R.html",
+    "href": "workshops/08-Create Interactive Apps with Shiny in R.html",
+    "title": "Create Interactive Apps with Shiny in R",
+    "section": "",
+    "text": "Overview\nTransform your data into engaging, interactive web applications using Shiny—a powerful R package for dynamic user interfaces. In this hands-on workshop, I guided participants through building and customizing Shiny apps, creating reactive visualizations with ggplot2 and plotly, and deploying the applications online. This session was designed for both beginners and R users looking to expand their technical skills.\n\n\n\n\nLearning Outcomes\n\nUnderstand the fundamental architecture of Shiny apps (using ui.R/server.R or app.R structures).\n\nImplement reactive programming to build dynamic, responsive applications.\n\nCreate and customize interactive data visualizations with ggplot2 and plotly.\n\nDeploy Shiny apps on platforms such as shinyapps.io and shinylive.\n\nLearn best practices for securing Shiny applications, including authentication.\n\n\n\n\nKey Skills Gained\n\nShiny app development\n\nReactive programming in R\n\nInteractive data visualization\n\nWeb application deployment\n\nApplication security practices"
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#a-safer-way-to-collect-data-market-area-mapping",
+    "href": "marketing-analytics.html#a-safer-way-to-collect-data-market-area-mapping",
+    "title": "Marketing Analytics",
+    "section": "A Safer Way to Collect Data: Market Area Mapping",
+    "text": "A Safer Way to Collect Data: Market Area Mapping\nIn my role as an Analyst, I was responsible for determining the “market area” of military installations—a process that previously involved manual note-taking at major intersections. To overcome the challenges of inaccuracy and safety risks, I developed a Shiny R application that integrates with the Strava API to automatically capture GPS data during field drives. Using the sf and leaflet packages, the app generates an interactive map of our routes, significantly enhancing both safety and data accuracy. Additionally, the HERE API is utilized to estimate market areas, adding an extra layer of verification.\nSkills Developed:\n\nAdvanced R Programming: Building interactive applications with Shiny.\nAPI Integration: Working with Strava and HERE APIs to automate data collection.\nGeospatial Analysis: Using sf and leaflet for mapping and spatial data visualization.\nProcess Optimization: Streamlining data collection methods for improved safety and efficiency."
+  },
+  {
+    "objectID": "marketing-analytics.html#analyzing-seo-practices-tri-and-industry-competitors",
+    "href": "marketing-analytics.html#analyzing-seo-practices-tri-and-industry-competitors",
+    "title": "Marketing Analytics",
+    "section": "Analyzing SEO Practices: TRI and Industry Competitors",
+    "text": "Analyzing SEO Practices: TRI and Industry Competitors\nIn this project, I conducted a comprehensive analysis of SEO practices for Trauma Resource Institute(TRI) and compared them with industry competitors. By combining web scraping, keyword research, and data visualization, I identified strengths and weaknesses in TRI’s online presence and developed actionable recommendations for improving digital strategy.\nSkills Developed:\n\nSEO Analysis: Evaluated and benchmarked SEO performance across multiple competitors.\nData Scraping & Cleaning: Wrote a script to collect and process data from various online sources.\nInteractive Reporting: Created an interactive HTML report to visualize comparative SEO metrics.\nStrategic Insights: Synthesized data into actionable recommendations for digital marketing initiatives.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "marketing-analytics.html#motivation-through-a-dashboard",
+    "href": "marketing-analytics.html#motivation-through-a-dashboard",
+    "title": "Marketing Analytics",
+    "section": "Motivation Through a Dashboard",
+    "text": "Motivation Through a Dashboard\nWhile managing a large, complex database of flagged data, I observed that the team’s motivation was waning due to the overwhelming volume and slow progress. To address this, I quickly created a simple yet effective dashboard that visualizes key metrics and tracks the team’s progress over time. The dashboard provided clear insights into accomplishments, significantly boosting team morale and focus on the end goal.\nSkills Developed:\n\nData Visualization: Designing dashboards that effectively communicate progress.\nUser Experience (UX): Crafting visual tools that motivate and engage team members.\nPerformance Metrics Analysis: Identifying and presenting key performance indicators.\nDashboard Development: Integrating dynamic data displays within existing applications."
+  },
+  {
+    "objectID": "marketing-analytics.html#the-chubb-archive",
+    "href": "marketing-analytics.html#the-chubb-archive",
+    "title": "Marketing Analytics",
+    "section": "The Chubb Archive",
+    "text": "The Chubb Archive\nI created thechubbarchive.com as a digital hub for preserving and sharing cherished family memories. This project curates a collection of old physical films that have been digitized and hosted on YouTube. The platform serves as an organized gateway to these films while integrating Google Analytics to track engagement from family members across various states.\nSkills Developed:\n\nWeb Development: Building a responsive website for digital archiving.\nDigital Curation: Organizing and presenting multimedia content.\nAnalytics Integration: Implementing Google Analytics to monitor user engagement.\nProject Management: Coordinating digitization and online publishing processes."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-1-insert-here",
+    "href": "marketing-analytics.html#project-title-1-insert-here",
+    "title": "Marketing Analytics",
+    "section": "[Project Title 1: Insert Here]",
+    "text": "[Project Title 1: Insert Here]\nIn this project, I addressed a [brief description of the problem or challenge]. I developed a solution using [technologies/tools], which led to improvements in [outcomes: accuracy, efficiency, insight, etc.].\nSkills Developed:\n\n[Skill 1]: Brief description or context.\n[Skill 2]: Tools, packages, or methods used.\n[Skill 3]: Area of growth or specialization.\n[Skill 4]: Broader takeaway or impact."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-2-insert-here",
+    "href": "marketing-analytics.html#project-title-2-insert-here",
+    "title": "Marketing Analytics",
+    "section": "[Project Title 2: Insert Here]",
+    "text": "[Project Title 2: Insert Here]\nThis project involved analyzing [organization or domain] and benchmarking against [competitors or best practices]. Using tools such as [tool names], I conducted a comprehensive review and created interactive visualizations to support strategic recommendations.\nSkills Developed:\n\n[Skill 1]: Describe analytics or strategy performed.\n[Skill 2]: Mention scraping, data wrangling, or automation if applicable.\n[Skill 3]: Type of output created (e.g., dashboard, report, visualization).\n[Skill 4]: Insight generation and strategic thinking.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-3-insert-here",
+    "href": "marketing-analytics.html#project-title-3-insert-here",
+    "title": "Marketing Analytics",
+    "section": "[Project Title 3: Insert Here]",
+    "text": "[Project Title 3: Insert Here]\nTo support [a team or business process], I designed a dashboard that visualizes key performance indicators in real-time. This tool improved transparency and helped boost engagement and accountability.\nSkills Developed:\n\n[Skill 1]: Dashboard development and visual storytelling.\n[Skill 2]: UX/UI principles for internal tools.\n[Skill 3]: Performance tracking and metrics design.\n[Skill 4]: Agile or iterative prototyping."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-4-insert-here",
+    "href": "marketing-analytics.html#project-title-4-insert-here",
+    "title": "Marketing Analytics",
+    "section": "[Project Title 4: Insert Here]",
+    "text": "[Project Title 4: Insert Here]\nThis personal or passion project involved creating a website to [archive, display, share] digital content. I integrated tools for tracking user interaction and focused on organizing the content for ease of use and long-term access.\nSkills Developed:\n\n[Skill 1]: Front-end or full-stack web development.\n[Skill 2]: Digital organization and taxonomy design.\n[Skill 3]: Analytics setup and interpretation.\n[Skill 4]: Project planning and content management."
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-1-strategic-campaign-planning",
+    "href": "marketing-analytics.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-2-brand-audit-positioning",
+    "href": "marketing-analytics.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "marketing-analytics.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "marketing-analytics.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "marketing-analytics.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "resume/YOUR-NAME-Resume.html",
+    "href": "resume/YOUR-NAME-Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  }
+]

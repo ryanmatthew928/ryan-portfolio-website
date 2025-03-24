@@ -1,0 +1,77 @@
+---
+name: First
+surname: Last
+position: "Your Role or Career Focus"
+phone: +1 (XXX) XXX-XXXX
+www: yourwebsite.com
+email: "you@example.com"
+github: your-github
+linkedin: your-linkedin
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+
+# Technical Skills
+
+- **Programming Languages:** R, Python, SQL, etc.  
+- **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "Master of [Your Field]", "20XX – Expected Graduation 20XX", "[Your School or Department]", "[Your University]",
+  "Bachelor of [Your Field]", "20XX – 20XX", "[Your School or Department]", "[Your University]"
+) %>%
+  detailed_entries(Degree, Year, College, Institution)
+```
+
+# Work Experience
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+
+  "Month YYYY – Month YYYY", "Company or Organization Name",
+  list(
+    "Summarize responsibility or achievement \\#1.",
+    "Highlight tools, technologies, or methods used.",
+    "Mention metrics, goals, or impact if possible.",
+    "Add communication or leadership responsibilities here."
+  ),
+  "Job Title",
+
+  "Month YYYY – Month YYYY", "Another Company or Team",
+  list(
+    "Led a project or team focused on [insert focus].",
+    "Collaborated cross-functionally with [departments/roles].",
+    "Managed content, campaigns, or dashboards.",
+    "Contributed to strategic planning or reporting."
+  ),
+  "Job Title"
+
+) %>%
+  detailed_entries(
+    what = Title,
+    when = Years,
+    with = Company,
+    why = Duties
+  )
+```

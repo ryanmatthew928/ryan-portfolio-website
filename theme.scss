@@ -1,0 +1,93 @@
+/*-- scss:defaults --*/
+
+// SCSS Variables for Cal Poly Pomona Branding
+$cpp-green: #00693D;
+$cpp-gold:  #FFB81C;
+
+// Secondary Colors
+$avocado:   #A6CE6E;
+$citrus:    #FF7F00;
+$white:     #FFFFFF;
+$teal:      #00838A;
+$bay-brown: #BCBAB8;
+$black:     #121212;
+$rose:      #E5A3A6;
+$eggshell:  #E2E8E0;
+
+// Typography (Using System Fonts for Compatibility)
+$font-primary: Arial, sans-serif;
+$font-secondary: Georgia, serif;
+$font-body: Arial, sans-serif;
+
+$darker-gold: darken($cpp-gold, 10%);
+
+/*-- scss:rules --*/
+
+/* Global Body Styles */
+body {
+  font-family: $font-body;
+  color: $black;
+  background-color: $eggshell;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-primary;
+  font-weight: bold;
+}
+
+h1 {
+  color: $cpp-green;
+}
+
+h2 {
+  color: $darker-gold;
+}
+
+h3 {
+  color: $teal;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1em;
+  line-height: 1.5;
+  color: $black;
+}
+
+/* Links */
+a {
+  color: $citrus;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Code Blocks */
+pre code {
+  background: $black;
+  color: $cpp-gold;
+  font-size: 1em;
+  padding: 15px;
+  border-radius: 5px;
+  border: 2px solid $avocado;
+}
+
+
+/* Highlight Class */
+.highlight {
+  background-color: $citrus;
+  color: $white;
+  padding: 0.2em 0.4em;
+  border-radius: 0.2em;
+}
+
+/* Optional: Keyframes for Animations */
+@keyframes progressColor {
+  0%   { background-color: $cpp-green; }
+  100% { background-color: $cpp-gold; }
+}

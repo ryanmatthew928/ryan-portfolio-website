@@ -14,19 +14,14 @@ I'm a [your profession or area of focus]. I specialize in transforming complex i
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution], with a strong background in [your core skills or tools]. I enjoy building interactive content, sharing knowledge through workshops, and turning ideas into reality through reproducible and creative work.
+I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
 
-## What I Do
 
-- **[Skill or Service 1]:** [Brief explanation or tools used].
-- **[Skill or Service 2]:** [Brief explanation or area of expertise].
-- **[Skill or Service 3]:** [Brief explanation or audience served].
-- **[Skill or Service 4]:** [Brief explanation or technologies used].
 
 ## Let's Connect
 
-I'm always excited to meet others and explore new ideas. You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ---
 
-*Welcome to my portfolio—where creativity meets data and ideas come to life.*
+*Welcome to my portfolio.*

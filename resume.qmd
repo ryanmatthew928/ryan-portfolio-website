@@ -2,7 +2,17 @@
 title: "Résumé"
 ---
 
-You can view a PDF version of my résumé [here](resume/YOUR-NAME-Resume.pdf).
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Resume.pdf).
 
 # Professional Summary
 

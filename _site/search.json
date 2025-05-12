@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "",
+    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "About Me",
+    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  }
+]
